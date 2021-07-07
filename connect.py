@@ -1,7 +1,7 @@
 from iqoptionapi.stable_api import IQ_Option
 import time, json, logging, configparser
 from datetime import datetime, date, timedelta
-from dateutil import tz
+#from dateutil import tz
 
 logging.disable(level=(logging.DEBUG))
 
